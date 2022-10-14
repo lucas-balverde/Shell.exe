@@ -1,0 +1,3 @@
+00 */1 * * * /home/lucas/Bureau/Shell.exe/Job_8/get_logs.sh
+
+ligne a mettre dans le crontab -e  pour test toutes les minutes 
